@@ -1,5 +1,5 @@
 
-# 🔬 PHYS307 - Applied Modern Physics Laboratory Reports
+# ☢️ PHYS307 - Applied Modern Physics Laboratory Reports
 
 Welcome to this collection of lab reports for **PHYS307: Applied Modern Physics** 🌌! These reports, created in LaTeX, serve as examples for students at **Middle East Technical University’s Department of Physics**. They cover a range of foundational experiments in modern physics, each shedding light on essential concepts and phenomena. Explore, learn, and draw inspiration for your own reports! 🎓
 
